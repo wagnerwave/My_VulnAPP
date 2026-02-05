@@ -18,3 +18,10 @@ It can be used:
 - as an educational project to practice identifying and fixing security issues
 - as a learning template for secure coding practices (make sure to fix the vulnerabilities first)
 Do not deploy this application in a production environment without addressing the known security flaws.
+
+## How to use 
+
+```
+docker compose build --no-cache
+docker compose up
+```
